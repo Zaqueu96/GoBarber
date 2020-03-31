@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.proseWrap": "preserve",
+  "prettier.useEditorConfig": false,
+  "eslint.codeAction.disableRuleComment": {},
+  "eslint.codeAction.showDocumentation": {}
+}
